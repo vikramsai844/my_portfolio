@@ -99,6 +99,6 @@ Contributions are welcome! Feel free to fork the repository and create pull requ
 For any questions or issues, please reach out to:
 
 - **Developer:** vikram R
-- **Email:** vikram7001058@gmail.com
+- **Email:** vikram701058@gmail.com
 - **GitHub:** https://github.com/vikramr844
 - **LinkedIn:** https://linkedin.com/in/vikram844
