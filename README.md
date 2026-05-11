@@ -42,11 +42,7 @@ Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v16+ recommended)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-### 2. **Clone the Repository**
-```bash
-git clone https://github.com/yoonusajward/Personal-Portfolio-Website.git
-cd Personal-Portfolio-Website
-```
+### 2 **Clone**
 
 ### 3. **Install Dependencies**
 Run the following command to install all required dependencies:
